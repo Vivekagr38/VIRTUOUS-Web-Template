@@ -1,0 +1,17 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+@media only screen and (max-width: 480px) {
+    .continer {
+        width: 100%;
+    }
+    .header {
+        width: 100%;
+    }
+    .banner {
+        width: 100%;
+        overflow: hidden;
+    }
+}
